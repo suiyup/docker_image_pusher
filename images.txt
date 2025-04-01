@@ -1,1 +1,1 @@
-zerotier/zerotier
+docker pull zerotier/zerotier
